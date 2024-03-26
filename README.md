@@ -1,2 +1,0 @@
-# gussing-numbergame
- my project
