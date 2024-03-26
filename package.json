@@ -1,5 +1,5 @@
 {
-  "name": "gussing-numbergame",
+  "name": "123gussing-numbergame",
   "version": "1.0.0",
   "description": "Gueeing Number a game typescript, NodeJS",
   "main": "index.js",
